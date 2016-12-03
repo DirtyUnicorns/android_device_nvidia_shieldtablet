@@ -124,6 +124,9 @@ PRODUCT_PACKAGES += libshim_icu55 \
                     libshim_nvcamera \
                     libshim_gpsd
 
+# Low memory killer daemon
+PRODUCT_PACKAGES += lmkd
+
 # Wireless Controller
 #$(call inherit-product-if-exists, vendor/nvidia/shield_common/blake-blobs.mk)
 
