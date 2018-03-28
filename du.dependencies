@@ -1,22 +1,27 @@
 [
  {
-   "repository": "android_device_nvidia_shield-common",
-   "target_path": "device/nvidia/shield-common"
+   "repository":  "android_device_nvidia_shield-common",
+   "target_path": "device/nvidia/shield-common",
+   "branch":      "o8x"
  },
  {
-   "repository": "android_kernel_nvidia_shield",
-   "target_path": "kernel/nvidia/shield"
+   "repository":  "android_kernel_nvidia_shield",
+   "target_path": "kernel/nvidia/shield",
+   "branch":      "o8x"
  },
  {
-   "repository": "android_hardware_nvidia_libstagefrighthw",
-   "target_path": "hardware/nvidia/libstagefrighthw"
+   "repository":  "android_hardware_nvidia_libstagefrighthw",
+   "target_path": "hardware/nvidia/libstagefrighthw",
+   "branch":      "o8x"
  },
  {
-   "repository": "android_hardware_nvidia_power",
-   "target_path": "hardware/nvidia/power"
+   "repository":  "android_hardware_nvidia_power",
+   "target_path": "hardware/nvidia/power",
+   "branch":      "o8x"
  },
  {
-   "repository": "android_hardware_nvidia_thermal",
-   "target_path": "hardware/nvidia/thermal"
+   "repository":  "android_hardware_nvidia_thermal",
+   "target_path": "hardware/nvidia/thermal",
+   "branch":      "o8x"
  }
 ]
