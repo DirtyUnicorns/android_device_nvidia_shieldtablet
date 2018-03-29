@@ -10,6 +10,11 @@
    "branch":      "o8x"
  },
  {
+   "repository":  "DirtyUnicorns/android_vendor_nvidia",
+   "target_path": "vendor/nvidia",
+   "branch":      "o8x"
+ },
+ {
    "repository":  "DirtyUnicorns/android_hardware_nvidia_libstagefrighthw",
    "target_path": "hardware/nvidia/libstagefrighthw",
    "branch":      "o8x"
